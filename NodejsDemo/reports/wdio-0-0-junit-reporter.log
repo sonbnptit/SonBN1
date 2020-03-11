@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Login_Function" timestamp="2020-01-14T14:08:40" time="12.156" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Login Function"/>
+      <property name="capabilities" value="chrome.79_0_3945_117.windows"/>
+      <property name="file" value=".\src\Test_Script\LoginFunction.js"/>
+    </properties>
+    <testcase classname="chrome.79_0_3945_117.windows.Login_Function" name="Login_Pass" time="4.187"/>
+  </testsuite>
+</testsuites>

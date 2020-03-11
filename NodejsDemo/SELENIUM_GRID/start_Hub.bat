@@ -1,0 +1,1 @@
+java -jar D:/GRID_SYSTEM/selenium-server-standalone-3.141.59.jar -role hub
